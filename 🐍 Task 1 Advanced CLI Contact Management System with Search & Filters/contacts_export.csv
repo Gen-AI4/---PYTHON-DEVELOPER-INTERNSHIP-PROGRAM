@@ -1,0 +1,7 @@
+id,name,phone,email,city,company,favorite,created_at
+a1b2c3d4,Aisha Khan,+92-300-1234567,aisha.khan@techworks.io,Karachi,TechWorks,True,2026-04-12T10:15:00
+e5f6a7b8,Bilal Ahmed,+92-321-9876543,bilal@nexora.com,Lahore,Nexora Labs,False,2026-04-15T09:42:11
+c9d0e1f2,Sara Malik,+92-345-5550199,sara.malik@cloudpeak.dev,Islamabad,CloudPeak,True,2026-04-18T14:05:32
+11223344,John Carter,+1-415-555-0123,john.carter@greenleaf.co,San Francisco,GreenLeaf,False,2026-04-20T08:30:00
+55667788,Maria Garcia,+34-600-112233,maria.garcia@nexora.com,Madrid,Nexora Labs,False,2026-04-22T17:21:45
+99aabbcc,Hamza Raza,+92-301-7654321,hamza.raza@techworks.io,Karachi,TechWorks,False,2026-04-25T11:00:00
